@@ -13,6 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .DS_Store
+*_BuiltData.uasset
 
 # Common IntelliJ Platform excludes
 
